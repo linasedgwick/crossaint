@@ -1,0 +1,28 @@
+body {
+  background: #37afbb;
+  color: white;
+}
+h1,
+p,
+.emoji {
+  text-align: center;
+}
+p {
+  margin: 0px 400px 0px 400px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+.emoji {
+  font-size: 300px;
+}
+a {
+  color: #a4f4db;
+}
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px 700px 0px 700px;
+}
