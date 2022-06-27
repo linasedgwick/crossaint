@@ -20,6 +20,7 @@ img {
 }
 a {
   color: #a4f4db;
+  margin-right: 20px;
 }
 .links {
   display: flex;
